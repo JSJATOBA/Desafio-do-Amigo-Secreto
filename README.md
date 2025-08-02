@@ -1,4 +1,4 @@
-<img width="1277" height="915" alt="image" src="https://github.com/user-attachments/assets/efdbec2e-8a42-4d54-b87c-1c4fc1d59b61" /># AMIGO SECRETO
+#**AMIGO SECRETO**
 
 Este é um projeto simples para sortear amigos em uma brincadeira de amigo secreto. Os usuários podem adicionar nomes a uma lista e, com um único clique, o programa sorteia um nome aleatoriamente.
 
@@ -7,6 +7,8 @@ Este é um projeto simples para sortear amigos em uma brincadeira de amigo secre
 Adicionar nomes: Adicione quantos participantes desejar à lista.
 
 Validar entrada: O sistema impede que nomes em branco sejam adicionados, garantindo que a lista seja válida.
+<img width="1279" height="993" alt="image" src="https://github.com/user-attachments/assets/dbe1d291-d036-4b5a-bbf9-9f3448204210" />
+
 
 Visualizar a lista: A lista de nomes adicionados é exibida na tela.
 
