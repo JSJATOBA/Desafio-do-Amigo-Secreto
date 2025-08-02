@@ -1,10 +1,10 @@
-# Desafio-do-Amigo-Secreto
+# AMIGO SECRETO
 
 Este é um projeto simples para sortear amigos em uma brincadeira de amigo secreto. Os usuários podem adicionar nomes a uma lista e, com um único clique, o programa sorteia um nome aleatoriamente.
 
 **Funcionalidades:**
 
-Adicionar nomes: Adicione quantos nomes de participantes desejar à lista.
+Adicionar nomes: Adicione quantos participantes desejar à lista.
 
 Validar entrada: O sistema impede que nomes em branco sejam adicionados, garantindo que a lista seja válida.
 
@@ -27,10 +27,13 @@ Realize o sorteio: Clique em "Sortear amigo" para ver o nome selecionado aleator
 Reinicie o jogo: Se quiser começar de novo, clique em "Reiniciar" para limpar a lista.
 
 **Tecnologias Utilizadas**
+
 HTML: Para a estrutura e marcação da página.
 
 CSS: Para a estilização e o layout dos elementos.
 
 JavaScript: Para a lógica de adicionar nomes, sortear e reiniciar.
+
+
 
 Jonatas Souza Jatobá
